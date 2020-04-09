@@ -1,5 +1,11 @@
 # braid-design-system
 
+## 25.2.1
+
+### Patch Changes
+
+- Hide native focus rings on Box elements during mouse interactions ([#589](https://github.com/seek-oss/braid-design-system/pull/589))
+
 ## 25.2.0
 
 ### Minor Changes
